@@ -20,6 +20,14 @@ android lib - autoupdater
 ##System requirements
 Android 2.2+
 
+##Dependencies
+1. Google Gson [https://code.google.com/p/google-gson/](https://code.google.com/p/google-gson/)
+2. http-request [https://github.com/kevinsawicki/http-request](https://github.com/kevinsawicki/http-request)
+3. android-log [https://github.com/snowdream/android-log](https://github.com/snowdream/android-log)
+4. android-downloader [https://github.com/snowdream/android-downloader](https://github.com/snowdream/android-downloader)
+5. android-multithread [http://snowdream.github.io/android-multithread](http://snowdream.github.io/android-multithread)
+Check this for more informaion. [build.gradle](https://github.com/snowdream/android-autoupdater/blob/master/client/build.gradle)
+
 ##Download
 Download [the latest aar][2] or grab via Maven:
 
