@@ -25,7 +25,7 @@ Android 2.2+
 2. http-request [https://github.com/kevinsawicki/http-request](https://github.com/kevinsawicki/http-request)
 3. android-log [https://github.com/snowdream/android-log](https://github.com/snowdream/android-log)
 4. android-downloader [https://github.com/snowdream/android-downloader](https://github.com/snowdream/android-downloader)
-5. android-multithread [http://snowdream.github.io/android-multithread](http://snowdream.github.io/android-multithread)
+5. android-multithread [http://snowdream.github.io/android-multithread](http://snowdream.github.io/android-multithread)  
 Check this for more informaion. [build.gradle](https://github.com/snowdream/android-autoupdater/blob/master/client/build.gradle)
 
 ##Download
