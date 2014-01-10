@@ -20,6 +20,12 @@ android lib - autoupdater
 ##System requirements
 Android 2.2+
 
+##Permission requirements
+```xml
+<uses-permission android:name="android.permission.INTERNET" />
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+```
+
 ##Dependencies
 1. Google Gson [https://code.google.com/p/google-gson/](https://code.google.com/p/google-gson/)
 2. http-request [https://github.com/kevinsawicki/http-request](https://github.com/kevinsawicki/http-request)
